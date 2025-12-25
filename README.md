@@ -63,4 +63,4 @@ It fetches live exchange rates via REST API calls and JSON parsing, demonstratin
 ## 📂 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Saravanakumar211402/currency-converter.git
+   https://github.com/Saravanakumar211402/Currency-Converter.git
